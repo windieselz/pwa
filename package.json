@@ -5,6 +5,7 @@
   "dependencies": {
     "bootstrap": "^3.3.7",
     "firebase": "^3.9.0",
+    "google-map-react": "^0.24.0",
     "react": "^15.6.1",
     "react-dom": "^15.6.1",
     "react-google-login": "^2.9.2",
